@@ -3,7 +3,7 @@ package jenkins;
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 
-public class AddNewClass {
+public class AddNewClassTest {
 	@Test
 	public void add() {
 		Reporter.log("executete successfull",true);
